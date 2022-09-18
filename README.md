@@ -1,3 +1,8 @@
+## Source code
+
+- FrontEnd: https://github.com/paultran0920/testec-elearning-fe
+- BackEnd: https://github.com/paultran0920/testec-elearning-be
+
 # AWS Deployment
 ## Deployment architecture
 <img src="tectec-deployment.png" alt=""/>
@@ -44,9 +49,8 @@ Run this command line to connect to your DB server `psql -h <postgres public ent
 5. Clone [Tectec FE](https://github.com/paultran0920/testec-elearning-fe) by `git clone https://github.com/paultran0920/testec-elearning-fe.git`
 6. Correct the `.env` and build your application then deploy to a web server.
 
-## More document can be found at
-
-- FrontEnd: https://github.com/paultran0920/testec-elearning-fe
-- BackEnd: https://github.com/paultran0920/testec-elearning-be
-
 ## DEMO
+
+You can play with this application at: http://ec2-3-138-103-234.us-east-2.compute.amazonaws.com/
+
+<img src="tectec-demo-1.png" alt=""/>
